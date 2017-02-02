@@ -1,0 +1,5 @@
+name: RealHunger
+author: ZINGDING
+version: 0.0.1-SNAPSHOT
+main: zingding.RealHunger
+api: [1.0.0]
